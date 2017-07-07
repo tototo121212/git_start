@@ -19,7 +19,7 @@
 </head>
 <body>
 	<div align="center">
-		<h2>방명록입니다.</h2>
+		<h2>방명록입니다. 999999</h2>
 		<hr />
 		<p>[<a href="/0424_MVCGuestBook/MyController?type=write"> 방명록쓰기 </a>]</p>
 		<table>
